@@ -295,8 +295,8 @@ The openness of the game means there are a huge number of backup strats availabl
 - Walk southeast to Ned, and have him make you a wig **[1,2,1]**.
 - Dye wig yellow.
 - Buy a rope from Ned.
-- **Walk east to Leela, who is northwest of the jail.
-- Talk to Leela to get key.**
+- **Walk east to Leela, who is northwest of the jail.**
+- **Talk to Leela to get key.**
 - Enter Draynor jail, minding the guards.
 - Give guard that you can talk to beers.
 - Use rope on Keli to tie her up.
