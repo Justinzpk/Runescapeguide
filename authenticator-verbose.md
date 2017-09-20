@@ -353,7 +353,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Pick up 3 goblin mail locations: Up ladder, in mid-left hut, behind generals’ (right side) for the goblin bodies.
 - ![armour](https://i.imgur.com/6aWMQLi.png)
 - Dye 1 mail blue and 1 mail orange.
-- Do GD by talking to generals and giving armor. **[3,3] Talk again [3] Talk again [3] Talk again [1,3]**
+- Do GD by talking to generals and giving armor. **[3,3] Use - Orange armour, Use - Blue armour, Use - Brown armour**
 - Run south to Falador castle.
 - Drop wines, Dossier, gold bar
 - Finish BKF at Sir Amik Varze. 
