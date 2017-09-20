@@ -56,9 +56,9 @@ Create the email address you want to use for this.
 
 It is recommended that you setup a short and memorable gmail account "usernamerun@gmail.com".
 
-When setting up the runescape account, you can use the email "usernamerun+1@gmail.com", and increment it by one each run.
+When setting up the runescape account, you can use the email "u.sernamerun@gmail.com", and increment it by one each run.
 
-Your runescape login will be "usernamerun+1@gmail.com" and the authentication email will go to "usernamerun@gmail.com".
+Your runescape login will be "u.sernamerun@gmail.com" and the authentication email will go to "usernamerun@gmail.com".
 
 - Make a new oldschool runescape account, and complete email verification.
 - Go to the main oldschool page and click enable authenticator.
