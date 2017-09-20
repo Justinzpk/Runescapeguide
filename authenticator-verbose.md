@@ -159,7 +159,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Run to Port Sarim.
 - Run to Betty's magic store. (Watch for highwaymen).
     - BUY: Eye of Newt, Wizard hat, 30 air runes, 40 mind runes, 55 water runes, 65 earth runes
-    ![shop](https://i.imgur.com/J5ZJC3y.png)
+    -![shop](https://i.imgur.com/J5ZJC3y.png)
 - Talk to Redbeard to start PT **[1,1]**.
 - Travel to Karamja.**[1]**
 - Head to Karamja bar.
