@@ -237,7 +237,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Head to Zaff's Staffs
     - BUY: Normal staff
 - Talk to Gypsy and start DS **[1,3,3, cutscene, 4] (screenshot incantation).**
-- Talk to Romeo. **[Walk away when he says FATHER LAWRENCE**
+- Talk to Romeo. **[Walk away when he says FATHER LAWRENCE]**
 - Head to Varrock Clothes store.
     - BUY: pink skirt and red cape
     - ![skirt](https://i.imgur.com/xoadh75.png)
