@@ -307,7 +307,7 @@ The openness of the game means there are a huge number of backup strats availabl
     - ![bones](https://i.imgur.com/FulZ3dd.png)
 - Walk south to wizards tower.
 - Turn in bones upstairs by talking to trailborn **[3,3,2, then re-talk]**.
-- Turn in notes in basement.
+- Turn in notes in basement. **drop talisman**
 - Die to wizard.
    
 ### Lumbridge III
