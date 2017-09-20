@@ -279,7 +279,8 @@ The openness of the game means there are a huge number of backup strats availabl
 - Walk to chicken coop east of Draynor manor.
 - Light fire as soon as you get there chicken coop.
 - Watch this fire and kill chickens, and **pick up the ashes quickly.**
-- Kill 25 chickens with magic: **PICK UP THE ASHES**
+- Kill 25 chickens with magic (try to find a world with no one in the pen by house if no luck go to large pen north-west) 
+- **IF YOU FORGOT LIGHT FIRE AND PICK UP THE ASHES** 
     - Pick up 25 bones in the process.
     - Use magic prayer.
     - Use a mind bomb to start, and then once every level up.
