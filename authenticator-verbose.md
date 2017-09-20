@@ -299,7 +299,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - **Walk east to Leela, who is northwest of the jail.**
 - **Talk to Leela to get key.**
 - Enter Draynor jail, minding the guards.
-- Give guard that you can talk to beers.
+- Give guard that you can talk to beers **(use on him or talk and press [1].**
 - Use rope on Keli to tie her up.
 - Enter the jail cell and talk to Prince Ali to rescue him.
 - Bank at Draynor.
