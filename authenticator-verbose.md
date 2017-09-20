@@ -167,7 +167,7 @@ The openness of the game means there are a huge number of backup strats availabl
     - ![bar](https://i.imgur.com/HlkX7VO.png)
 - Pick 10 bananas at the plantation.
 - Walk east to Luthas.
-- Get a job with Luthas: 
+- Get a job with Luthas: **[1]**
     - Fill banana crate
     - Deposit rum in crate
     - Claim payment from Luthas
