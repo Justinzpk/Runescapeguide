@@ -115,10 +115,13 @@ The openness of the game means there are a huge number of backup strats availabl
     - If you drop your runes a few tiles or more away from the magic tutor;
     - Then every 30 minutes you can claim more runes.
     - So here we drop them, claim runes, and then pick the runes back up.
-- Drop(while walking around lumby): Pot, arrows, body runes, fishing net, sword, dagger, shield.
+    
+- Drop: Pot, arrows, body runes, fishing net, sword, dagger, shield.
+
 - Walk to lumby general store.
     - SELL: Axe, bow
     - BUY: Hammer, shears, bucket
+    
 - Shear 3 sheep in the nearby sheep pen.
 - Walk back to claim Ironman armor from Adam/Paul/Juan.
 - Walk up south lumby castle stairs.
@@ -144,7 +147,7 @@ The openness of the game means there are a huge number of backup strats availabl
  
 ### Falador
 - Run to Fally bar.
-- Buy 1 Asgarnian Ale and 6 Mind Bombs.
+- Buy 1 Asgarnian Ale and 6 Mind Bombs.**[1,1 & 1,2] X6**
 - Buy woad leaves from Wynston in Fally park **[1,4]**.
 - Bank at falador east.
     - **[BANK]**: All coins, pickaxe, 2 buckets
@@ -155,8 +158,9 @@ The openness of the game means there are a huge number of backup strats availabl
 - Run to Port Sarim.
 - Run to Betty's magic store. (Watch for highwaymen).
     - BUY: Eye of Newt, Wizard hat, 30 air runes, 40 mind runes, 55 water runes, 65 earth runes
+    ![shop](https://i.imgur.com/J5ZJC3y.png)
 - Talk to Redbeard to start PT **[1,1]**.
-- Travel to Karamja.
+- Travel to Karamja.**[1]**
 - Head to Karamja bar.
     - BUY: 3 beers, rum
 - Pick 10 bananas at the plantation.
@@ -165,18 +169,21 @@ The openness of the game means there are a huge number of backup strats availabl
     - Fill banana crate
     - Deposit rum in crate
     - Claim payment from Luthas
-- Travel back to the mainland.
+- Travel back to the mainland. **[1,2,1]**
     - **[Split]**
 - Grab white apron from fishing store.
 - Walk south to food store.
 - BUY: 2 pots of flour, raw meat.
+    - ![shop](https://i.imgur.com/K4TQoXB.png)
 - Equip apron, to enter back room and grab rum from banana crate.
+- Drop apron because you might be retarded.
  
 ### Rimmington
 - Head to Rimmington mine.
 - Mine 1 copper, 1 tin, and 1 clay. (Note, this mining can be difficult due to bots. Switch worlds as needed.)
 - Walk northeast to farming patch.
 - Pick 5 onions and 1 cabbage.
+- ![shop](https://i.imgur.com/kf9Y5gR.png)
 - Walk southeast to the house in Rimmington with both a sink and range.
 - Burn the meat. (If it cooks successfully, use it on the range again)
 - Fill bucket with water.
