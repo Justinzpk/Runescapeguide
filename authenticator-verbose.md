@@ -285,7 +285,7 @@ The openness of the game means there are a huge number of backup strats availabl
     - Use magic prayer.
     - Use a mind bomb to start, and then once every level up.
     - Use water strike while you have the runes, then air strike, then melee if needed.
-    - Drop tinder box, beer glasses, and water runes last. (Keeping 25 bones, ashes, air/mind runes)
+    - Drop tinder box, beer glasses, and water runes last. (Keeping 25 bones, ashes, air/mind runes) **Should have full inventory**
 - Run to Draynor bank.
     - **[BANK]**: Coins, onions, red berries, wood leaves, bucket of water, flour, ashes, 3 beers, 3 wool, skirt
     - ![bank](https://i.imgur.com/heAeHxO.png)
