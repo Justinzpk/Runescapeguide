@@ -304,7 +304,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Enter the jail cell and talk to Prince Ali to rescue him.
 - Bank at Draynor.
     - **[BANK]**: 25 bones and RM notes
-    - ![bones](https://i.imgur.com/Ej0Ge3f.png)
+    - ![bones](https://i.imgur.com/FulZ3dd.png)
 - Walk south to wizards tower.
 - Turn in bones upstairs by talking to trailborn **[3,3,2, then re-talk]**.
 - Turn in notes in basement.
