@@ -315,7 +315,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Deathwarp on Al Kharid palace guards.
 - Run to Draynor bank.
 - Bank at Draynor bank.
-    - **[BANK]**: Mage gear, all runes, mind bomb, stake, hammer, garlic, chronicle, ~10 wines.
+    - **[BANK]**: Mage gear, all runes, mind bomb, stake, hammer, garlic, ~10 wines.
     - ![bank](https://i.imgur.com/KrK9bSw.png)
 - Run to Draynor Manor.
 - Start ETC by talking to veronica outside of manor **[1]**.
@@ -347,32 +347,34 @@ The openness of the game means there are a huge number of backup strats availabl
 - Run to BKF.
 - Equip bronze helm and iron chainbody.
 - Enter castle and follow hidden route to spy at grate.
-- Go back to the main entrance and follow east path to drop cabbage in hole.
+- Go back to the main entrance **[2] at door** and follow east path to drop cabbage in hole.
 - Run directly west from the fortress through wilderness to the goblin village.
 - Pick up 3 goblin mail locations: Up ladder, in mid-left hut, behind generals’ (right side) for the goblin bodies.
 - ![armour](https://i.imgur.com/6aWMQLi.png)
 - Dye 1 mail blue and 1 mail orange.
-- Do GD by talking to generals and giving armor.
+- Do GD by talking to generals and giving armor. **[3,3] Talk again [3] Talk again [3] Talk again [1,3]**
 - Run south to Falador castle.
+- Drop wines, Dossier, gold bar
 - Finish BKF at Sir Amik Varze. 
     - **[Split]**
 - Go upstairs and die to a white knight.
 - Chronicle teleport.
-- Make RJ potion at Varrock Apothecary.
+- Make RJ potion at Varrock Apothecary. **[3,1]**
 - Run to Juliet and give her the potion.
 - Bank at V West.
     - **[BANK]**: 3 DS keys, chronicle, final fight stuff (Armor, shield, cape, gloves, ale, wine, bread)
     - ![bank](https://i.imgur.com/lbrd7Vt.png)
 - Finish RJ by talking to Romeo and watching cutscene.
-- Run to Varrock castle.
+- Run to Varrock castle. **turn off auto retaliate**
 - Get Silverlight from Sir Prysin. (Chronicle teleport when you get the message that you have it)
-- Fight Delrith:
+- Fight Delrith: **enter from south side & drink asgarnian ale once fighting **
     - This fight is actually very tricky and difficult
     - The fight is an instance that can be freely entered and reset by walking in and out of the circle
     - Get to the southeast of the circle and reset the instance as needed to get delrith alone
     - You DO NOT want a wizard aggro'd on you
     - Pull delrith as far southeast or southwest as you can without exiting the instance to get him alone
-- Enter the incantation, and be sure to turn of prayer before you do so.
+    - **turn off prayer**
+- Enter the incantation.
     - If prayer is left on it can bug the ending when your prayer runs out.
 - Chronicle teleport to and enter the Champion's Guild.
 
