@@ -148,6 +148,7 @@ The openness of the game means there are a huge number of backup strats availabl
 ### Falador
 - Run to Fally bar.
 - Buy 1 Asgarnian Ale and 6 Mind Bombs.**[1,1 & 1,2] X6**
+- ![bar](https://i.imgur.com/s8FtbnI.png)
 - Buy woad leaves from Wynston in Fally park **[1,4]**.
 - Bank at falador east.
     - **[BANK]**: All coins, pickaxe, 2 buckets
@@ -163,6 +164,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Travel to Karamja.**[1]**
 - Head to Karamja bar.
     - BUY: 3 beers, rum
+    - ![bar](https://i.imgur.com/HlkX7VO.png)
 - Pick 10 bananas at the plantation.
 - Walk east to Luthas.
 - Get a job with Luthas: 
@@ -205,14 +207,16 @@ The openness of the game means there are a huge number of backup strats availabl
     - **[BANK]**: All coins
 - Head to Draynor Square
     - BUY: ~20 wines from Fortunato. (Switch worlds as needed)
+    - ![wines](https://i.imgur.com/GZE184i.png)
     - BUY: Chronicle and 5 teleports from Django.
+    - ![Chronicle](https://i.imgur.com/11MzF0p.png)
 - Use teleport cards on chronicle to store them.
 - Run to Draynor bank.
     - **[BANK]**: Air talisman, chronicle
     - ![bank](https://i.imgur.com/hA2VvfL.png)
 - Run south to Wizard's tower.
 - Use ladder to go to basement.
-- Talk to Wizard for RM.
+- Talk to Wizard Sedridor for RM. **[3,1,1]**
 - Grab skull from basement.
 - **[Deathwarp]** on wizard with package, skull, chronicle.
     - **[Split]**
@@ -222,7 +226,8 @@ The openness of the game means there are a huge number of backup strats availabl
 - Chronicle teleport.
    
 ### Varrock
-- Run east of the dark wizard circle and pick 1 cadava and 4 redberries.
+- Run east of the dark wizard circle and pick 1 cadava and 4 redberries. (World Hop if needed)
+- ![berries](https://i.imgur.com/XkS4LJG.png)
 - Chronicle teleport.
 - Run northwest.
 - Start RJ at JULIET **[1,1]**.
@@ -231,16 +236,17 @@ The openness of the game means there are a huge number of backup strats availabl
     - ![bank](https://i.imgur.com/7FVJanR.png)
 - Head to Zaff's Staffs
     - BUY: Normal staff
-- Talk to Gypsy and start DS **[1,3,3, cutscene, 4]** (screenshot incantation).
-- Talk to Romeo.
+- Talk to Gypsy and start DS **[1,3,3, cutscene, 4] (screenshot incantation).**
+- Talk to Romeo. **[Walk away when he says FATHER LAWRENCE**
 - Head to Varrock Clothes store.
     - BUY: pink skirt and red cape
+    - ![skirt](https://i.imgur.com/xoadh75.png)
 - Run to Varrock bar south of general store.
 - Talk to Dr. Harlow about Morgan **[2]**.
 - Give Dr. Harlow a beer to get stake.
 - Buy a beer from the bartender.
 - Get message from PT Chest upstairs in the bar.
-- Talk to Aubury in the rune shop **[3]**, speak again for package.
+- Talk to Aubury in the rune shop **[3]**, **speak again** for notes.
 - Run to Varrock castle.
 - Head to the southwest corner of the inner castle.
 - Talk to Sir Prysin about the Silverlight **[3,1,2,1]**.
@@ -251,7 +257,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Refill bucket water at sink.
 - Talk to Father Lawrence in the northeast church.
 - Go down into sewers to the southwest of church.
-- Head down the north path, and pick up key.
+- Head down the north-west path, and pick up key.
 - Clan wars teleport.
     - **[Split]**
    
@@ -267,13 +273,13 @@ The openness of the game means there are a huge number of backup strats availabl
 - Talk to Osman to learn what to do **[1,2]**.
 - Talk to Osman to give bar and mold.
 - Home teleport.
-- Start CA by talking to cook in Lumby Kitchen.
+- Start CA by talking to cook in Lumby Kitchen. **[2,1]**
 - Finish CA by talking to cook again.
 - Reclaim runes at magic tutor.
 - Walk to chicken coop east of Draynor manor.
 - Light fire as soon as you get there chicken coop.
-- Watch this fire and kill chickens, and pick up the ashes quickly.
-- Kill 25 chickens with magic:
+- Watch this fire and kill chickens, and **pick up the ashes quickly.**
+- Kill 25 chickens with magic: **PICK UP THE ASHES**
     - Pick up 25 bones in the process.
     - Use magic prayer.
     - Use a mind bomb to start, and then once every level up.
@@ -289,14 +295,15 @@ The openness of the game means there are a huge number of backup strats availabl
 - Walk southeast to Ned, and have him make you a wig **[1,2,1]**.
 - Dye wig yellow.
 - Buy a rope from Ned.
-- Walk east to Leela, who is northwest of the jail.
-- Talk to Leela to get key.
+- **Walk east to Leela, who is northwest of the jail.
+- Talk to Leela to get key.**
 - Enter Draynor jail, minding the guards.
 - Give guard that you can talk to beers.
 - Use rope on Keli to tie her up.
 - Enter the jail cell and talk to Prince Ali to rescue him.
 - Bank at Draynor.
     - **[BANK]**: 25 bones and RM notes
+    - ![bones](https://i.imgur.com/Ej0Ge3f.png)
 - Walk south to wizards tower.
 - Turn in bones upstairs by talking to trailborn **[3,3,2, then re-talk]**.
 - Turn in notes in basement.
@@ -317,8 +324,8 @@ The openness of the game means there are a huge number of backup strats availabl
     - Poison in the kitchen
     - Oil can in the basement **[BA, D, BA, EF, C, E]**
 - Complete VS by killing Count Draynor.
-- Drop all mage equipment as you walk. (Wizard hat, staff, runes)
-- Exit manor in east room, collecting the spade before you do so.
+- Drop all mage equipment as you walk. (Wizard hat, staff, runes + junk) keep coins for chainbody
+- Exit manor in east room, **collecting the spade** before you do so.
 - Use spade on compost heap to west of manor for key.
 - Use poisoned fish food on fountain to southwest of manor, then search fountain.
 - Enter the manor.
@@ -326,27 +333,28 @@ The openness of the game means there are a huge number of backup strats availabl
 - Go to manor top floor.
 - Start and finish ETC.
     - **[Split]**
-- Exit Draynor Manor, grabbing bronze helm on the way out.
+- Exit Draynor Manor, **grabbing bronze helm** on the way out.
 - Run to Falador hugging the south Falador wall.
 - Head to Wayne's Chains:
     - BUY: Iron chainbody
 - Bank at fally east.
     - **[BANK]**: Spade, chronicle, cadava berries, cabbage, dyes, iron chain, bronze med and 4 wines
     - ![bank](https://i.imgur.com/3pZc9Bb.png)
-- Finish PT by digging in the park, running away from gardener, digging again.
+- Finish PT by digging in the park **(at the cross)**, running away from gardener, digging again.
 - Drop spade and chest.
 - Run to Fally castle.
-- Start BKF. **[1,1]**.
+- Start BKF at Sir Amik Varze. **[1,1,1]**.
 - Run to BKF.
 - Equip bronze helm and iron chainbody.
 - Enter castle and follow hidden route to spy at grate.
 - Go back to the main entrance and follow east path to drop cabbage in hole.
 - Run directly west from the fortress through wilderness to the goblin village.
 - Pick up 3 goblin mail locations: Up ladder, in mid-left hut, behind generals’ (right side) for the goblin bodies.
+- ![armour](https://i.imgur.com/6aWMQLi.png)
 - Dye 1 mail blue and 1 mail orange.
 - Do GD by talking to generals and giving armor.
 - Run south to Falador castle.
-- Finish BKF.
+- Finish BKF at Sir Amik Varze. 
     - **[Split]**
 - Go upstairs and die to a white knight.
 - Chronicle teleport.
