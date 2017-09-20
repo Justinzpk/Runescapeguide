@@ -367,7 +367,9 @@ The openness of the game means there are a huge number of backup strats availabl
     - ![bank](https://i.imgur.com/lbrd7Vt.png)
 - Finish RJ by talking to Romeo and watching cutscene.
 - Run to Varrock castle. **turn off auto retaliate**
-- Get Silverlight from Sir Prysin. (Chronicle teleport when you get the message that you have it)
+- Get Silverlight from Sir Prysin. 
+- Chronicle teleport when Silverlight in equipment tab
+
 - Fight Delrith: **enter from south side & drink asgarnian ale once fighting **
     - This fight is actually very tricky and difficult
     - The fight is an instance that can be freely entered and reset by walking in and out of the circle
