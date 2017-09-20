@@ -245,7 +245,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Talk to Dr. Harlow about Morgan **[2]**.
 - Give Dr. Harlow a beer to get stake.
 - Buy a beer from the bartender.
-- Get message from PT Chest upstairs in the bar.
+- Get message **and READ IT** from PT Chest upstairs in the bar.
 - Talk to Aubury in the rune shop **[3]**, **speak again** for notes.
 - Run to Varrock castle.
 - Head to the southwest corner of the inner castle.
