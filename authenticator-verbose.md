@@ -325,14 +325,14 @@ The openness of the game means there are a huge number of backup strats availabl
     - Poison in the kitchen
     - Oil can in the basement **[BA, D, BA, EF, C, E]**
 - Complete VS by killing Count Draynor.
-- Drop all mage equipment as you walk. (Wizard hat, staff, runes + junk) keep coins for chainbody
+- Drop all mage equipment as you walk. (Wizard hat, staff, runes + junk)
 - Exit manor in east room, **collecting the spade** before you do so.
 - Use spade on compost heap to west of manor for key.
 - Use poisoned fish food on fountain to southwest of manor, then search fountain.
 - Enter the manor.
 - Collect rubber tube from skeleton room.
 - Go to manor top floor.
-- Start and finish ETC.
+- Start and finish ETC. **keep coins for chainbody**
     - **[Split]**
 - Exit Draynor Manor, **grabbing bronze helm** on the way out.
 - Run to Falador hugging the south Falador wall.
