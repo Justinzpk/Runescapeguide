@@ -273,7 +273,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Talk to Osman to learn what to do **[1,2]**.
 - Talk to Osman to give bar and mold.
 - Home teleport.
-- Start CA by talking to cook in Lumby Kitchen. **[2,1]**
+- Start CA by talking to cook in Lumby Kitchen. **[1,1]**
 - Finish CA by talking to cook again.
 - Reclaim runes at magic tutor.
 - Walk to chicken coop east of Draynor manor.
@@ -310,7 +310,7 @@ The openness of the game means there are a huge number of backup strats availabl
 - Die to wizard.
    
 ### Lumbridge III
-- Run to Al Kharid palace to finish PAR.
+- Run to Al Kharid palace to finish PAR. **Drop Coins**
     - **[Split]**
 - Deathwarp on Al Kharid palace guards.
 - Run to Draynor bank.
