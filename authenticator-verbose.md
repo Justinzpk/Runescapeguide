@@ -147,7 +147,7 @@ The openness of the game means there are a huge number of backup strats availabl
  
 ### Falador
 - Run to Fally bar.
-- Buy 1 Asgarnian Ale and 6 Mind Bombs.**[1,1 & 1,2] X6**
+- Buy 1 Asgarnian Ale and 6 Mind Bombs.**[1 & 2X6]**
 - ![bar](https://i.imgur.com/s8FtbnI.png)
 - Buy woad leaves from Wynston in Fally park **[1,4]**.
 - Bank at falador east.
@@ -196,7 +196,7 @@ The openness of the game means there are a huge number of backup strats availabl
  
 ### Draynor Village
 - Use water on clay.
-- Give rum to redbeard and get key from him.
+- Give rum to redbeard and get key from him. **[1]**
 - Walk to house with Morgan in Draynor.
 - Start VS by talking to Morgan **[2]**
 - Go upstairs in the same house, search cabinet to grab garlic.
