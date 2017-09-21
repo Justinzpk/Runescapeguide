@@ -175,6 +175,7 @@ The openness of the game means there are a huge number of backup strats availabl
     - **[Split]**
 - Grab white apron from fishing store.
 - Walk south to food store.
+- Talk to shop owner for a job **[4]**
 - BUY: 2 pots of flour, raw meat.
     - ![shop](https://i.imgur.com/K4TQoXB.png)
 - Equip apron, to enter back room and grab rum from banana crate.
